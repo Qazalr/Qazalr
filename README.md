@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">👋 Hey, nice to meet you!</h1>
 <h2 align="center">I'm Reem 👩‍💻</h2>
 
