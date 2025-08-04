@@ -36,7 +36,7 @@
 
 ### ✨ About Me
 - 🔍 Passionate about applying AI to solve real-world logistics problems
-- 🌍 Currently working on [Ruso Intelligence](https://github.com/Qazalr) – AI in warehouse optimization
+- 🌍 Currently looking for job opportunities in ai field 
 - 📈 Love working with data, building pipelines, and optimizing processes
 
 ---
