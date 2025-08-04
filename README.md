@@ -51,8 +51,8 @@
 ---
 
 ### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [GitHub](https://github.com/Qazalr)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/reem-suleiman/))
+
 
 
 <!--
